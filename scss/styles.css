@@ -1,0 +1,32 @@
+/*Colors*/
+/*Styles*/
+/*Common styles*/
+@font-face {
+  font-family: 'Brandon Grotesque';
+  src: url("../fonts/BrandonGrotesque-Light.eot");
+  src: url("../fonts/BrandonGrotesque-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/BrandonGrotesque-Light.woff") format("woff"), url("../fonts/BrandonGrotesque-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal; }
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  min-width: 360px;
+  height: 100%;
+  font-family: "Montserrat", sans-serif; }
+
+a, div, span, svg use, ul li {
+  transition: 0.3s; }
+
+a:hover {
+  text-decoration: none; }
+
+ul {
+  padding: 0;
+  margin: 0; }
+  ul li {
+    padding: 0;
+    list-style: none; }
+
+/*# sourceMappingURL=styles.css.map */
